@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85d71c96-4b0c-4799-b0e3-61b6273e8fd4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Maven Archetype Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y16riz5T7hdY4XGJUZ2SYHQZ9K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="archetype" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="archetype" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85d71c96-4b0c-4799-b0e3-61b6273e8fd4" name="Default Changelist" comment="" />
+      <created>1582097953255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582097953255</updated>
+      <workItem from="1582097954860" duration="2312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1456" y="518" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582098955537">
+      <screen x="0" y="23" width="2560" height="1371" />
+    </state>
+    <state x="1456" y="518" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1371@0.23.2560.1371" timestamp="1582098955537" />
+    <state x="1031" y="324" width="1342" height="874" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1582098743605">
+      <screen x="0" y="23" width="2560" height="1371" />
+    </state>
+    <state x="1031" y="324" width="1342" height="874" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.2560.1371@0.23.2560.1371" timestamp="1582098743605" />
+    <state width="1576" height="423" key="GridCell.Tab.0.bottom" timestamp="1582099108359">
+      <screen x="0" y="23" width="2560" height="1371" />
+    </state>
+    <state width="1576" height="423" key="GridCell.Tab.0.bottom/0.23.2560.1371@0.23.2560.1371" timestamp="1582099108359" />
+    <state width="1576" height="423" key="GridCell.Tab.0.center" timestamp="1582099108358">
+      <screen x="0" y="23" width="2560" height="1371" />
+    </state>
+    <state width="1576" height="423" key="GridCell.Tab.0.center/0.23.2560.1371@0.23.2560.1371" timestamp="1582099108358" />
+    <state width="1576" height="423" key="GridCell.Tab.0.left" timestamp="1582099108358">
+      <screen x="0" y="23" width="2560" height="1371" />
+    </state>
+    <state width="1576" height="423" key="GridCell.Tab.0.left/0.23.2560.1371@0.23.2560.1371" timestamp="1582099108358" />
+    <state width="1576" height="423" key="GridCell.Tab.0.right" timestamp="1582099108359">
+      <screen x="0" y="23" width="2560" height="1371" />
+    </state>
+    <state width="1576" height="423" key="GridCell.Tab.0.right/0.23.2560.1371@0.23.2560.1371" timestamp="1582099108359" />
+    <state x="1252" y="347" key="SettingsEditor" timestamp="1582098422003">
+      <screen x="0" y="23" width="2560" height="1371" />
+    </state>
+    <state x="1252" y="347" key="SettingsEditor/0.23.2560.1371@0.23.2560.1371" timestamp="1582098422003" />
+  </component>
+</project>
